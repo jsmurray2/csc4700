@@ -1,5 +1,8 @@
 What is your favorite movie?
-
+	The Lord of the Rings
 If you could go anywhere in the world for vacation, where would it be?
-
+	New Zealand
 If you could have any super power, what would it be (and why that power)?
+	I would like to control luck. For instance I could choose to make myself or someone else especially lucky for a period of time,
+	or if someone is bothering me I could make them unlucky. This condition should probably wear off over time,
+	otherwise it would get a bit too messy.
